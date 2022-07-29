@@ -8,13 +8,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/platzi/async-landing.git"
+    "url": "https://github.com/cdryampi/landing-async"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/platzi/async-landing/issues"
+    "url": "https://github.com/cdryampi/landing-async/issues"
   },
-  "homepage": "https://github.com/platzi/async-landing#readme"
+  "homepage": "https://github.com/cdryampi/landing-async#readme"
 }
